@@ -1,4 +1,4 @@
 # srgi-demo
 This Is my first Repository
 <br>
-Auther- Adarsh pal
+Auther- Adarsh pal (rohit)
